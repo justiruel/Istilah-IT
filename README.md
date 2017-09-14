@@ -6,7 +6,7 @@ https://en.wikipedia.org/wiki/Technical_debt
 # Robust
 # Learning curve
 # Asynchronous
-  - Promise
-  - Async Await
-  - Callback
+  -Promise
+  -Async Await
+  -Callback
 
